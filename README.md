@@ -1,7 +1,6 @@
-## Hi there 👋
 # 👋 Hi there, I'm Aswathi P!
 
-🎓 3rd Year B.Tech CSE @ Lovely Professional University  
+🎓 4th Year B.Tech CSE @ Lovely Professional University  
 📊 Aspiring Data Analyst | Data Scientist  
 💡 Passionate about Machine Learning, Data Visualization, and Insights  
 🌱 Currently improving: DSA, Python, SQL, and ML Projects  
@@ -11,11 +10,37 @@
 
 ## 💻 Tech Stack
 
+### 🧠 Languages & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 📊 Data Analysis & Visualization
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+### 🤖 Machine Learning / NLP
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 🧾 Automation & Tools
+![ReportLab](https://img.shields.io/badge/ReportLab-FF6F61?style=flat&logo=adobeacrobatreader&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=flat&logo=gnu-bash&logoColor=white)
+![File I/O](https://img.shields.io/badge/File%20Handling-007ACC?style=flat&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF8C00?style=flat&logo=python&logoColor=white)
+
+### 🛠️ Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
 
 ---
 
@@ -43,10 +68,19 @@
 
 ---
 
+## 🎯 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/aswathi603/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aswathyi7t/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aswathipp17)
+
+----
+
 ## 📫 Connect With Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswathi-p-223268264/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:aswathipp17@gmail.com)
+
 
 ---
 
