@@ -1,10 +1,23 @@
 # 👋 Hi there, I'm Aswathi P!
 
-🎓 4th Year B.Tech CSE @ Lovely Professional University  
-📊 Aspiring Data Analyst | Data Scientist  
-💡 Passionate about Machine Learning, Data Visualization, and Insights  
-🌱 Currently improving: DSA, Python, SQL, and ML Projects  
-💼 Internshala Student Partner | AI-ML Intern @ YBI Foundation
+🎓 4th Year B.Tech CSE Student @ Lovely Professional University  
+💼 Internshala Student Partner | AI-ML Intern @ YBI Foundation  
+
+---
+
+## 💫 About Me
+
+💻 **Aspiring Software Developer** — passionate about building scalable solutions  
+📊 **Data Analyst** — driven by curiosity and a love for data-driven insights  
+🤖 **Data Scientist in Progress** — exploring ML models and predictive analytics  
+
+📌 Currently working on improving my skills in:
+- DSA (Data Structures & Algorithms)
+- Python for ML & Automation
+- SQL for querying and analysis
+- Real-world Machine Learning Projects
+
+📈 Constantly learning, building, and sharing.
 
 ---
 
