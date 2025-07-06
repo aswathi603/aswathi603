@@ -87,13 +87,14 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aswathyi7t/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aswathipp17)
 
+
 ----
 
 ## 📫 Connect With Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswathi-p-223268264/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:aswathipp17@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:aswathipp17@gmail.com)  
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@aswathipp17)
 
 ---
 
